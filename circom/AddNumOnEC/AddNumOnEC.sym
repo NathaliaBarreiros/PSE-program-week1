@@ -1,0 +1,16 @@
+1,1,1,main.x1
+2,2,1,main.y1
+3,3,1,main.x2
+4,4,1,main.y2
+5,5,1,main.xout
+6,6,1,main.yout
+7,-1,0,main.babyAdd.xout
+8,-1,0,main.babyAdd.yout
+9,-1,0,main.babyAdd.x1
+10,-1,0,main.babyAdd.y1
+11,-1,0,main.babyAdd.x2
+12,-1,0,main.babyAdd.y2
+13,7,0,main.babyAdd.beta
+14,8,0,main.babyAdd.gamma
+15,9,0,main.babyAdd.delta
+16,10,0,main.babyAdd.tau
